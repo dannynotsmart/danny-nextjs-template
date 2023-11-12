@@ -1,5 +1,13 @@
 My template Next.JS project with Bootstrap for quick project initialization and setup.
 
+After cloning, run
+```bash
+npm install
+```
+to install all node modules.
+
+Also, make a `/public/` directory.
+
 Some useful links:
 - [http://localhost:3000](http://localhost:3000)
 - [Next.js Documentation](https://nextjs.org/docs)
